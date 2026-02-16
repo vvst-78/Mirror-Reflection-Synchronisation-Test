@@ -48,3 +48,5 @@ Prompting explicit synchronisation constraints significantly improves coherence.
 ## 🎥 Author
 
 AI cinematic experiments by VeraV 
+https://youtube.com/shorts/IpNKv3x4tf8?feature=share
+https://youtube.com/shorts/P9z8T8eehI8?feature=share 
