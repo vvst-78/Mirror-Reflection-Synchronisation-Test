@@ -47,14 +47,4 @@ Prompting explicit synchronisation constraints significantly improves coherence.
 
 ## 🎥 Author
 
-AI cinematic experiments by Vera## 📌 Insight
-
-AI video models tend to treat mirror imagery as a secondary scene rather than a physically bound reflection.
-
-Prompting explicit synchronisation constraints significantly improves coherence.
-
----
-
-## 🎥 Author
-
 AI cinematic experiments by VeraV 
